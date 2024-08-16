@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from tqdm import tqdm
 import math
-import urllib
 from PIL import Image
 from io import BytesIO
 import requests

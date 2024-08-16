@@ -13,7 +13,7 @@
 
 2. 필요한 패키지들을 설치해줍니다.
 
-`pip install matplotlib numpy tqdm pillow io requests geopy`
+`pip install matplotlib numpy tqdm pillow requests geopy`
 
 3. 파이썬 파일을 실행합니다.
 

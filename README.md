@@ -8,7 +8,7 @@
 
 1. 먼저 이 레포지토리를 로컬에 클론해줍니다.
 
-`git clone https://github](https://github.com/vantaa89/random-travel --depth=1`
+`git clone https://github.com/vantaa89/random-travel --depth=1`
 
 
 2. 필요한 패키지들을 설치해줍니다.
